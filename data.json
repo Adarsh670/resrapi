@@ -1,68 +1,66 @@
 {
-  "laptop": {
-    "hp": [
-      {
-        "id": 1,
-        "model": "HP 440 G9",
-        "operatingsystem": "Windows 11 Pro",
-        "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
-        "processerfamily": "12th Generation Intel® Core™ i5 processor",
-        "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
-        "memoryslot": "2 SODIMM",
-        "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
-        "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
-        "StorageType": "SSD",
-        "OpticalDrive": "Not included",
-        "graphics": "Intel® Iris® Xᵉ Graphics",
-        "display": "35.6 cm (14) diagonal FHD display"
-      },
-      {
-        "id": 2,
-        "model": "HP 990 G9",
-        "operatingsystem": "Windows 11 Pro",
-        "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
-        "processerfamily": "12th Generation Intel® Core™ i5 processor",
-        "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
-        "memoryslot": "2 SODIMM",
-        "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
-        "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
-        "StorageType": "SSD",
-        "OpticalDrive": "Not included",
-        "graphics": "Intel® Iris® Xᵉ Graphics",
-        "display": "35.6 cm (14) diagonal FHD display"
-      }
-    ],
-    "dell": [
-        {
-          "id": 1,
-          "model": "DELL 440 G9",
-          "operatingsystem": "Windows 11 Pro",
-          "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
-          "processerfamily": "12th Generation Intel® Core™ i5 processor",
-          "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
-          "memoryslot": "2 SODIMM",
-          "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
-          "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
-          "StorageType": "SSD",
-          "OpticalDrive": "Not included",
-          "graphics": "Intel® Iris® Xᵉ Graphics",
-          "display": "35.6 cm (14) diagonal FHD display"
-        },
-        {
-          "id": 2,
-          "model": "DELL 990 G9",
-          "operatingsystem": "Windows 11 Pro",
-          "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
-          "processerfamily": "12th Generation Intel® Core™ i5 processor",
-          "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
-          "memoryslot": "2 SODIMM",
-          "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
-          "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
-          "StorageType": "SSD",
-          "OpticalDrive": "Not included",
-          "graphics": "Intel® Iris® Xᵉ Graphics",
-          "display": "35.6 cm (14) diagonal FHD display"
-        }
-      ]
-  }
+  "laptop": [
+    {
+      "id": 1,
+      "model": "HP 440 G9",
+      "operatingsystem": "Windows 11 Pro",
+      "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
+      "processerfamily": "12th Generation Intel® Core™ i5 processor",
+      "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
+      "memoryslot": "2 SODIMM",
+      "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
+      "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
+      "StorageType": "SSD",
+      "OpticalDrive": "Not included",
+      "graphics": "Intel® Iris® Xᵉ Graphics",
+      "display": "35.6 cm (14) diagonal FHD display"
+    },
+    {
+      "id": 2,
+      "model": "HP 990 G9",
+      "operatingsystem": "Windows 11 Pro",
+      "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
+      "processerfamily": "12th Generation Intel® Core™ i5 processor",
+      "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
+      "memoryslot": "2 SODIMM",
+      "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
+      "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
+      "StorageType": "SSD",
+      "OpticalDrive": "Not included",
+      "graphics": "Intel® Iris® Xᵉ Graphics",
+      "display": "35.6 cm (14) diagonal FHD display"
+    }
+  ],
+  "desktop": [
+    {
+      "id": 1,
+      "model": "HP Desktop",
+      "operatingsystem": "Windows 11 Pro",
+      "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
+      "processerfamily": "12th Generation Intel® Core™ i5 processor",
+      "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
+      "memoryslot": "2 SODIMM",
+      "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
+      "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
+      "StorageType": "SSD",
+      "OpticalDrive": "Not included",
+      "graphics": "Intel® Iris® Xᵉ Graphics",
+      "display": "35.6 cm (14) diagonal FHD display"
+    },
+    {
+      "id": 2,
+      "model": "HP Desktop",
+      "operatingsystem": "Windows 11 Pro",
+      "processorname": "Intel® Core™ i5-1235U (up to 4.4 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)",
+      "processerfamily": "12th Generation Intel® Core™ i5 processor",
+      "memory": "16 GB DDR4-3200 MHZ RAM(1 x 16GB)",
+      "memoryslot": "2 SODIMM",
+      "Standardmemorynote": "  Transfer rates up to 3200 MT/s.",
+      "Harddrivedescription": "512 GB PCIe® NVMe™ SSD",
+      "StorageType": "SSD",
+      "OpticalDrive": "Not included",
+      "graphics": "Intel® Iris® Xᵉ Graphics",
+      "display": "35.6 cm (14) diagonal FHD display"
+    }
+  ]
 }
